@@ -1,6 +1,6 @@
-﻿# Backend Widget Empreendimentos Geocidade
+﻿# Backend serviço no windows
 
-O backend foi desenvolvido para servir os dados de empreendimentos e assim alimentar widget de empreendimento do geocidade Jaboatão-PE.
+Backend desenvolvido para iniciar automáticamente como uma tarefa no windows
 
 ##### Requisitos: 
 * Nodejs 4.4.4
